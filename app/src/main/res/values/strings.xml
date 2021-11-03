@@ -1,0 +1,19 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Signal</string>
+
+    <!-- Signal -->
+    <string name="action_settings">Settings</string>
+    <string name="lighting_time">lighting Time (seconds) </string>
+    <string name="blue">Blue</string>
+    <string name="blinking_blue">Blinking Blue</string>
+    <string name="yellow">Yellow</string>
+    <string name="blinking_yellow">Blinking Yellow</string>
+    <string name="red">Red</string>
+    <string name="blinking_red">Blinking Red</string>
+    <string name="summary">summary</string>
+    <!--  Strings for possible PreferenceActivity Back/Next buttons -->
+    <string name="back_button_label" translatable="false">Back</string>
+    <string name="next_button_label" translatable="false">Next</string>
+    <!-- Optional button to Skip a PreferenceActivity [CHAR LIMIT=20] -->
+    <string name="skip_button_label" translatable="false">Skip</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--suppress DeprecatedClassUsageInspection -->
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:fastScrollEnabled="true" >
+    <PreferenceCategory android:title="@string/summary" >
+        <Preference
+            android:key="KEY_VERSION"
+            android:summary="unknown"
+            android:title="@string/app_name" >
+        </Preference>
+    </PreferenceCategory>
+</PreferenceScreen>

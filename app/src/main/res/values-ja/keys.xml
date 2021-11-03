@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="blue_key">blue</string>
+    <string name="blinking_blue_key">blinking_blue</string>
+    <string name="yellow_key">yellow</string>
+    <string name="blinking_yellow_key">blinking_yellow</string>
+    <string name="red_key">red</string>
+    <string name="blinking_red_key">blinking_red</string>
+</resources>

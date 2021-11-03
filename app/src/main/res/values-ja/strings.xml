@@ -1,0 +1,16 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">信号</string>
+
+    <!-- Signal -->
+    <string name="action_settings">設定</string>
+    <string name="lighting_time">点灯時間 (秒)</string>
+    <string name="blue">青</string>
+    <string name="blinking_blue">青点滅</string>
+    <string name="yellow">黄</string>
+    <string name="blinking_yellow">黄点滅</string>
+    <string name="red">赤</string>
+    <string name="blinking_red">赤点滅</string>
+    <string name="summary">概要</string>
+
+</resources>
